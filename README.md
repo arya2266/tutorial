@@ -9,4 +9,4 @@
 * coming soon
 
 ## story
-The quick brown toffee jumped over the lazy muffin
+The quick brown black and gray toffee jumped over the lazy muffin
