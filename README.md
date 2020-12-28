@@ -2,5 +2,5 @@
 
 ## hello world
 **my cats**
-*muffin
-*toffee
+* muffin
+* toffee
