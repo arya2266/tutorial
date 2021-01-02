@@ -9,4 +9,4 @@
 * coming soon
 
 ## story
-The quick brown toffee jumped over the lazy and sleepy muffin
+The quick brown Toffee jumped over the lazy Muffin. Muffin had a problem with this, so he bit Toffee. 
