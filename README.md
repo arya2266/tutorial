@@ -32,3 +32,4 @@ so Muffin sat on Toffee.
 
 ***
 
+![High speed chase](/assets/images/cats.png)
