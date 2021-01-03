@@ -18,4 +18,9 @@ so Muffin sat on Toffee.
 * cable
 * eraser
 * paper
+> **Items on floor** 0
+
+### Items on table post-*cat*astrophe
+* empty cup
+> **Item on floor** 4
 
