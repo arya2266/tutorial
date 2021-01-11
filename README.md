@@ -32,4 +32,4 @@ so Muffin sat on Toffee.
 
 ***
 
-![High speed chase](cats.JPG)
+![chomp](/images/cats.JPG)
